@@ -1,103 +1,90 @@
-<!-- <div>
-  <nav>
-  <ul class="flex space-x-4">
-    <li {% if page.url == '/' %}class="bg-blue-500"{% endif %}>
-      <a href="/" class="block py-2 px-4 text-white">Home</a>
-    </li>
-    <li {% if page.url == '/about/' %}class="bg-blue-500"{% endif %}>
-      <a href="/about/" class="block py-2 px-4 text-white">About</a>
-    </li>
-    <li {% if page.url == '/contact/' %}class="bg-blue-500"{% endif %}>
-      <a href="/contact/" class="block py-2 px-4 text-white">Contact</a>
-    </li>
-  </ul>
-</nav>
-</div> -->
-
-<div>
-  <nav class="bg-white">
-    <div class="px-8 mx-auto max-w-full">
-      <div class="flex items-center justify-between md:justify-center h-16">
-        <div class="flex items-center">
-          <a class="flex-shrink-0" href="/">
-            <img
-              class="w-28 h-28"
-              src="/images/icons/logo.svg"
-              alt="Workflow"
-            />
-          </a>
-          <div class="hidden md:block">
-            <div class="flex items-baseline ml-10 space-x-4">
-              <a
-                class="navbar-link{% if page.url == '/' %} selected{% endif %}"
-                href="/#"
-              >
-                Home
-              </a>
-              <a
-                class="navbar-link{% if page.url == '/register/' %} selected{% endif %}"
-                href="/register"
-              >
-                Anmelden
-              </a>
-              <a
-                class="navbar-link{% if page.url == '/about/' %} selected{% endif %}"
-                href="/about"
-              >
-                Über mich
-              </a>
-              <a
-                class="navbar-link{% if page.url == '/contact/' %} selected{% endif %}"
-                href="/contact"
-              >
-                Kontakt
-              </a>
-            </div>
+<nav class="bg-white sticky-top">
+  <div class="px-8 mx-auto max-w-full">
+    <div class="flex items-center justify-between md:justify-center h-16">
+      <div class="flex items-center">
+        <a class="flex-shrink-0" href="/">
+          <img
+            class="w-28 h-28"
+            src="/assets/images/icons/logo.svg"
+            alt="Workflow"
+          />
+        </a>
+        <div class="hidden md:block">
+          <div class="flex items-baseline ml-10 space-x-4">
+            <a
+              class="navbar-link{% if page.url == '/' %} selected{% endif %}"
+              href="/#"
+            >
+              Home
+            </a>
+            <a
+              class="navbar-link{% if page.url == '/register/' %} selected{% endif %}"
+              href="/register"
+            >
+              Anmelden
+            </a>
+            <a
+              class="navbar-link{% if page.url == '/register/' %} selected{% endif %}"
+              href="/prices"
+            >
+              Preise
+            </a>
+            <a
+              class="navbar-link{% if page.url == '/about/' %} selected{% endif %}"
+              href="/about"
+            >
+              Über mich
+            </a>
+            <a
+              class="navbar-link{% if page.url == '/contact/' %} selected{% endif %}"
+              href="/contact"
+            >
+              Kontakt
+            </a>
           </div>
         </div>
-        <div class="block">
-          <div class="flex items-center ml-4 md:ml-6"></div>
-        </div>
-        <div class="flex md:hidden">
-          <button
-            id="burger-menu"
-            class="bg-white inline-flex items-center justify-center p-2 rounded-md"
-          >
-            <img class="w-8" src="/images/svg/burger.svg" />
-          </button>
-        </div>
+      </div>
+      <div class="block">
+        <div class="flex items-center ml-4 md:ml-6"></div>
+      </div>
+      <div class="flex md:hidden">
+        <button
+          id="burger-menu"
+          class="bg-white inline-flex items-center justify-center p-2 rounded-md"
+        >
+          <img class="w-8" src="/images/svg/burger.svg" />
+        </button>
       </div>
     </div>
-    <div id="mobile-menu" class="hidden">
-      <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3 flex flex-col">
-        <a
-          class="navbar-link{% if page.url == '/' %} selected{% endif %}"
-          href="/#"
-        >
-          Home
-        </a>
-        <a
-          class="navbar-link{% if page.url == '/register/' %} selected{% endif %}"
-          href="/register"
-        >
-          Anmelden
-        </a>
-        <a
-          class="navbar-link{% if page.url == '/about/' %} selected{% endif %}"
-          href="/about"
-        >
-          Über mich
-        </a>
-        <a
-          class="navbar-link{% if page.url == '/contact/' %} selected{% endif %}"
-          href="/contact"
-        >
-          Kontakt
-        </a>
-      </div>
+  </div>
+  <div id="mobile-menu" class="hidden">
+    <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3 flex flex-col">
+      <a
+        class="navbar-link{% if page.url == '/' %} selected{% endif %}"
+        href="/#"
+      >
+        Home
+      </a>
+      <a
+        class="navbar-link{% if page.url == '/register/' %} selected{% endif %}"
+        href="/register"
+      >
+        Anmelden
+      </a>
+      <a
+        class="navbar-link{% if page.url == '/about/' %} selected{% endif %}"
+        href="/about"
+      >
+        Über mich
+      </a>
+      <a
+        class="navbar-link{% if page.url == '/contact/' %} selected{% endif %}"
+        href="/contact"
+      >
+        Kontakt
+      </a>
     </div>
-  </nav>
-
+  </div>
   <script>
     const burgerMenu = document.getElementById("burger-menu");
     const mobileMenu = document.getElementById("mobile-menu");
@@ -106,4 +93,4 @@
       mobileMenu.classList.toggle("hidden");
     });
   </script>
-</div>
+</nav>

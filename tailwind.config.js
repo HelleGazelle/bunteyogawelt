@@ -13,6 +13,9 @@ module.exports = {
   },
   plugins: [],
   corePlugins: {
+    // default fonts etc.
     preflight: false,
+    // otherwise the navbar will collapse
+    visibility: false,
   },
 };

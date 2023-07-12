@@ -2,7 +2,6 @@
 permalink: style.css
 ---
 
-{% set css %}
-{% include "styles/tailwind.css" %}
-{% endset %}
-{{css | postcss | safe}}
+{% set css %} {% include "styles/main.less" %} {% endset %}
+
+{{ css | postcss | safe }}

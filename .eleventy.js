@@ -10,7 +10,7 @@ const postcssFilter = (cssCode, done) => {
     cssnano({ preset: "default" }),
   ])
     .process(cssCode, {
-      from: "./src/_includes/styles/tailwind.css",
+      from: "./src/_includes/styles/main.less",
     })
     .then(
       (r) => done(null, r.css),
@@ -19,15 +19,19 @@ const postcssFilter = (cssCode, done) => {
 };
 
 module.exports = function (eleventyConfig) {
-    eleventyConfig.addWatchTarget("./src/_includes/styles/tailwind.css");
-  	eleventyConfig.addNunjucksAsyncFilter("postcss", postcssFilter);
-    eleventyConfig.addPassthroughCopy('images')
+  eleventyConfig.addWatchTarget("./src/_includes/styles/main.less");
+  eleventyConfig.addNunjucksAsyncFilter("postcss", postcssFilter);
+  eleventyConfig.addPassthroughCopy({
+    "./src/_assets/images": "assets/images",
+  });
 
-    return {
-        dir: {
-            input: "src",
-			      includes: "_includes",
-            output: "public"
-        }
-    }
-}
+  eleventyConfig.addLayoutAlias("base", "layouts/base.njk");
+
+  return {
+    dir: {
+      input: "src",
+      includes: "_includes",
+      output: "public",
+    },
+  };
+};
