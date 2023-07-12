@@ -1,5 +1,5 @@
 ---
-title: Zum Kurse anmelden
+title: Zum Kurs anmelden
 layout: "layouts/base.njk"
 ---
 

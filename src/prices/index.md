@@ -1,13 +1,10 @@
 ---
 title: Preise
+subtitle: Die Zahlung für die Kurse erfolgt im Voraus für einen 10er Block.
 layout: "layouts/base.njk"
 ---
 
 <div class="container">
-      <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
-      <h1 class="display-4 fw-normal text-body-emphasis">Preise</h1>
-      <p class="fs-5 text-body-secondary">Die Zahlung für die Kurse erfolgt im Voraus für einen 10er Block.</p>
-    </div>
   <div class="row row-cols-1 row-cols-md-3 mb-3 text-center flex justify-center">
     <div class="col">
       <div class="card mb-4 rounded-3 shadow-sm border-primary">

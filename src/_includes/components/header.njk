@@ -1,3 +1,8 @@
 <header id="header" class="header">
-  {% include "components/navbar-bootstrap.njk" %}
+  {% include "components/navbar-bootstrap.njk" %} {% if page.url != '/' %}
+  <div class="container p-3 border rounded-3 text-center mb-5">
+    <h1>{{ title }}</h1>
+    <p>{{ subtitle }}</p>
+  </div>
+  {% endif %}
 </header>
