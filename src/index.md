@@ -6,7 +6,7 @@ layout: "layouts/base.njk"
     <div class="container col-xxl-8 px-4 md:py-48">
         <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
         <div class="col-10 col-sm-8 col-lg-6">
-            <img src="/assets/images/about_me.jpg" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="100%" loading="lazy">
+            <img src="/assets/images/about_me.webp" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="100%" loading="lazy">
         </div>
         <div class="col-lg-6">
             <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Kinderyoga mit Theresa</h1>
@@ -58,7 +58,7 @@ layout: "layouts/base.njk"
     </div>
     <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-2 flex justify-center" >
       <div class="col">
-        <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 " style="background-image: url('/assets/images/lotus crayon (1).jpg');background-size: 100%;background-position: top;">
+        <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 " style="background-image: url('/assets/images/lotus crayon.webp');background-size: 100%;background-position: top;">
           <div class="d-flex flex-column h-100 p-5 pb-3 text-black text-shadow-1">
             <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Gruppe Lotusblume</h3>
             <div class="p-2"></div>
@@ -67,7 +67,7 @@ layout: "layouts/base.njk"
         </div>
       </div>
       <div class="col">
-        <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 " style="background-image: url('/assets/images/Rainbow (2).jpg');background-size: 100%;">
+        <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 " style="background-image: url('/assets/images/rainbow crayon.webp');background-size: 100%;">
           <div class="d-flex flex-column h-100 p-5 pb-3 text-black text-shadow-1">
             <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Gruppe Regenbogen</h3>
             <div class="p-2"></div>
@@ -86,10 +86,10 @@ layout: "layouts/base.njk"
                 <p class="text-md mt-4 text-gray-400">Das schöne am Kinderyoga ist, spielerisch und Fantasievoll die Freude an Bewegung zu entdecken. Zudem wird den Kindern durch eine spielerische Art und Weise wissen vermittelt. Eine Kinderyoga Stunde wird mit Geschichten, Spielen, Gruppenübungen, Fantasiereisen, Meditation und vielem mehr kunterbunt gestaltet und auf einem Thema aufgebaut. Kinderyoga fördert die Konzentration und Koordination und Gleichgewichtsfähigkeit. Das Selbstbewusstsein und Selbstwertgefühl wird gestärkt. Besonders hilft Yoga den Kindern zu entspannen und unterstützt bei der Stressbewältigung im Alltag.</p>
             </div>
             <div class="md:basis-1/2 flex items-center gap-1 p-4 lg:p-24">
-              <img src="/assets/images/woman mountain.jpg" class="w-1/2 rounded-lg" alt="Tree"/>
+              <img src="/assets/images/woman mountain.webp" class="w-1/2 rounded-lg" alt="Tree" loading="lazy" />
               <div>
-                  <img src="/assets/images/yoga shadow.jpg" class="w-1/2 mb-8 rounded-lg" alt="Tree"/>
-                  <img src="/assets/images/yoga shadow.jpg" class="w-1/2 rounded-lg" alt="Tree"/>
+                  <img src="/assets/images/yoga shadow.webp" class="w-1/2 mb-8 rounded-lg" alt="Tree" loading="lazy" />
+                  <img src="/assets/images/yoga shadow.webp" class="w-1/2 rounded-lg" alt="Tree" loading="lazy" />
               </div>
           </div>
         </div>
