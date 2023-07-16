@@ -1,0 +1,38 @@
+name: Build Hugo Site
+
+on:
+  push:
+    # Sequence of patterns matched against refs/tags
+    tags:
+      - "v*" # Push events to matching v*, i.e. v1.0, v20.15.10
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+          cache: "npm"
+          cache-dependency-path: "**/package-lock.json"
+
+      - run: npm ci
+      - run: npm run build --if-present
+
+      - name: Build project
+        run: cd public && zip -r artifact.zip .
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: public/artifact.zip
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
