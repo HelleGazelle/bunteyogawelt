@@ -24,7 +24,7 @@
     {% include "components/header.njk" %} {% if page.url == '/' %}
     {{ content | safe }}
     {% endif %} {% if page.url != '/' %}
-    <main>
+    <main class="container">
       {{ content | safe }}
     </main>
 
