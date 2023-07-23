@@ -24,7 +24,7 @@ layout: "layouts/base.njk"
                     <p><b>Adresse:</b><br>Praxiskollektiv<br>Kirchplatz 3<br>85617 Aßling</p>
                 </div>
                 <div class="md:basis-1/2">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2670.1233458971433!2d12.002779476766523!3d47.99200336128387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479df950075e35a1%3A0x68ece751112d94f7!2sKirchplatz%20Drei%20Praxiskollektiv!5e0!3m2!1sen!2sde!4v1689196519699!5m2!1sen!2sde" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                 <div data-service="googlemaps" data-id="!1m18!1m12!1m3!1d2670.1233458971433!2d12.002779476766523!3d47.99200336128387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479df950075e35a1%3A0x68ece751112d94f7!2sKirchplatz%20Drei%20Praxiskollektiv!5e0!3m2!1sen!2sde!4v1689196519699!5m2!1sen!2sde" data-autoscale></div>
                 </div>
             </div>
         </div>
