@@ -7,8 +7,4 @@ import {
   Popover as Popover,
 } from "bootstrap";
 
-import "./vendor/iframemanager";
-import "./vendor/iframemanger-init";
-
-import "./vendor/cookieconsent";
-import "./vendor/cookieconsent-init";
+import "./cookie.js";

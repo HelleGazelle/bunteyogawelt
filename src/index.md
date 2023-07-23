@@ -3,12 +3,12 @@ layout: "layouts/base.njk"
 ---
 
 <div>
-    <div class="container col-xxl-8 px-4 md:py-24">
-        <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+    <div class="container md:py-24">
+        <div class="row flex-lg-row-reverse align-items-center flex justify-center">
         <div class="col-10 col-sm-8 col-lg-6">
-            <img src="/assets/images/about_me.webp" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="100%" loading="lazy">
+            <img src="/assets/images/wood gesture.webp" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="100%" loading="lazy">
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-6 text-center">
             <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Kinderyoga mit Theresa</h1>
             <p class="lead">Yoga mit Kindern in Aßling</p>
         </div>
@@ -24,7 +24,12 @@ layout: "layouts/base.njk"
                     <p><b>Adresse:</b><br>Praxiskollektiv<br>Kirchplatz 3<br>85617 Aßling</p>
                 </div>
                 <div class="md:basis-1/2">
-                 <div data-service="googlemaps" data-id="!1m18!1m12!1m3!1d2670.1233458971433!2d12.002779476766523!3d47.99200336128387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479df950075e35a1%3A0x68ece751112d94f7!2sKirchplatz%20Drei%20Praxiskollektiv!5e0!3m2!1sen!2sde!4v1689196519699!5m2!1sen!2sde" data-autoscale></div>
+                 <div 
+                 data-service="googlemaps" 
+                 data-id="!1m18!1m12!1m3!1d2670.1233458971433!2d12.002779476766523!3d47.99200336128387!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479df950075e35a1%3A0x68ece751112d94f7!2sKirchplatz%20Drei%20Praxiskollektiv!5e0!3m2!1sen!2sde!4v1689196519699!5m2!1sen!2sde" 
+                 data-autoscale
+                 data-thumbnail="/assets/images/maps%20blur.webp"
+                 ></div>
                 </div>
             </div>
         </div>
@@ -86,10 +91,10 @@ layout: "layouts/base.njk"
                 <p class="text-md mt-4 text-gray-400">Das schöne am Kinderyoga ist, spielerisch und Fantasievoll die Freude an Bewegung zu entdecken. Zudem wird den Kindern durch eine spielerische Art und Weise wissen vermittelt. Eine Kinderyoga Stunde wird mit Geschichten, Spielen, Gruppenübungen, Fantasiereisen, Meditation und vielem mehr kunterbunt gestaltet und auf einem Thema aufgebaut. Kinderyoga fördert die Konzentration und Koordination und Gleichgewichtsfähigkeit. Das Selbstbewusstsein und Selbstwertgefühl wird gestärkt. Besonders hilft Yoga den Kindern zu entspannen und unterstützt bei der Stressbewältigung im Alltag.</p>
             </div>
             <div class="md:basis-1/2 flex items-center gap-1 p-4 lg:p-24">
-              <img src="/assets/images/woman mountain.webp" class="w-1/2 rounded-lg" alt="Tree" loading="lazy" />
+              <img src="/assets/images/lake gesture trimmed.webp" class="w-1/2 rounded-lg" alt="Tree" loading="lazy" />
               <div>
-                  <img src="/assets/images/yoga shadow.webp" class="w-1/2 mb-8 rounded-lg" alt="Tree" loading="lazy" />
-                  <img src="/assets/images/yoga shadow.webp" class="w-1/2 rounded-lg" alt="Tree" loading="lazy" />
+                  <img src="/assets/images/lake meditate trimmed.webp" class="w-1/2 mb-8 rounded-lg" alt="Tree" loading="lazy" />
+                  <img src="/assets/images/lake shadow trimmed.webp" class="w-1/2 rounded-lg" alt="Tree" loading="lazy" />
               </div>
           </div>
         </div>

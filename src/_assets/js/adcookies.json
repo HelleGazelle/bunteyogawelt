@@ -1,0 +1,317 @@
+[
+  {
+    "col1": "__gsas",
+    "col2": "Google Maps",
+    "col3": "Advertising"
+  },
+  {
+    "col1": "__gpi",
+    "col2": "Google Maps",
+    "col3": "Advertising"
+  },
+  {
+    "col1": "__gpi_optout",
+    "col2": "Google Maps",
+    "col3": "Advertising"
+  },
+  {
+    "col1": "NID",
+    "col2": "Google Maps",
+    "col3": "Security, Analytics, Functionality, Advertising"
+  },
+  {
+    "col1": "DSID",
+    "col2": "Google Maps",
+    "col3": "Security, Functionality, Advertising"
+  },
+  {
+    "col1": "test_cookie",
+    "col2": "Google Maps",
+    "col3": "Functionality"
+  },
+  {
+    "col1": "id",
+    "col2": "Google Maps",
+    "col3": "Functionality, Advertising"
+  },
+  {
+    "col1": "__gads",
+    "col2": "Google Maps",
+    "col3": "Advertising"
+  },
+  {
+    "col1": "GED_PLAYLIST_ACTIVITY",
+    "col2": "Google Maps",
+    "col3": "Advertising"
+  },
+  {
+    "col1": "ACLK_DATA",
+    "col2": "Google Maps",
+    "col3": "Advertising"
+  },
+  {
+    "col1": "pm_sess",
+    "col2": "Google Maps",
+    "col3": "Security, Functionality"
+  },
+  {
+    "col1": "pm_sess_NNN",
+    "col2": "Google Maps",
+    "col3": "Security, Functionality"
+  },
+  {
+    "col1": "aboutads_sessNNN",
+    "col2": "Google Maps",
+    "col3": "Security, Functionality"
+  },
+  {
+    "col1": "FPAU",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "ANID",
+    "col2": "Google Maps",
+    "col3": "Advertising"
+  },
+  {
+    "col1": "AID",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "IDE",
+    "col2": "Google Maps",
+    "col3": "Advertising"
+  },
+  {
+    "col1": "TAID",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "FPGCLDC",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "_gcl_dc",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "_gcl_au",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "FLC",
+    "col2": "Google Maps",
+    "col3": "Advertising"
+  },
+  {
+    "col1": "RUL",
+    "col2": "Google Maps",
+    "col3": "Advertising"
+  },
+  {
+    "col1": "FCCDCF",
+    "col2": "Google Maps",
+    "col3": "Functionality"
+  },
+  {
+    "col1": "FCNEC",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "FPGCLAW",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "FPGCLGB",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "_gcl_gb",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "_gac_gb_<wpid>",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "_gcl_aw",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "1P_JAR",
+    "col2": "Google Maps",
+    "col3": "Advertising"
+  },
+  {
+    "col1": "Conversion",
+    "col2": "Google Maps",
+    "col3": "Advertising"
+  },
+  {
+    "col1": "YSC",
+    "col2": "Google Maps",
+    "col3": "Security"
+  },
+  {
+    "col1": "VISITOR_INFO1_LIVE",
+    "col2": "Google Maps",
+    "col3": "Security, Advertising"
+  },
+  {
+    "col1": "VISITOR_INFO1_LIVE__k",
+    "col2": "Google Maps",
+    "col3": "Security, Advertising"
+  },
+  {
+    "col1": "VISITOR_INFO1_LIVE__default",
+    "col2": "Google Maps",
+    "col3": "Security, Advertising"
+  },
+  {
+    "col1": "FPLC",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "_ga",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "_gac_<wpid>",
+    "col2": "Google Maps",
+    "col3": "Advertising"
+  },
+  {
+    "col1": "_gid",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "_gat[_<customname>]",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "__utma",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "__utmb",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "__utmc",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "__utmt",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "__utmz",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "__utmv",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "AMP_TOKEN",
+    "col2": "Google Maps",
+    "col3": "Functionality"
+  },
+  {
+    "col1": "FPID",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "GA_OPT_OUT",
+    "col2": "Google Maps",
+    "col3": "Functionality"
+  },
+  {
+    "col1": "_ga_<wpid>",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "_dc_gtm_<property-id>",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "_gaexp",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "_gaexp_rc",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "_opt_awcid",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "_opt_awmid",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "_opt_awgid",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "_opt_awkid",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "_opt_utmc",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  },
+  {
+    "col1": "_gcl_gf",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "_gcl_ha",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "PAIDCONTENT",
+    "col2": "Google Maps",
+    "col3": "Analytics, Advertising"
+  },
+  {
+    "col1": "_opt_expid",
+    "col2": "Google Maps",
+    "col3": "Analytics"
+  }
+]

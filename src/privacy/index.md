@@ -6,7 +6,7 @@ layout: "layouts/base.njk"
 <div class="container">
 <h1>Datenschutzerklärung</h1>
 <p>Stand: 12. Juli 2023</p><h2>Inhaltsübersicht</h2>
- <ul class="index"><li><a class="index-link" href="#m3">Verantwortlicher</a></li><li><a class="index-link" href="#mOverview">Übersicht der Verarbeitungen</a></li><li><a class="index-link" href="#m2427">Maßgebliche Rechtsgrundlagen</a></li><li><a class="index-link" href="#m317">Geschäftliche Leistungen</a></li><li><a class="index-link" href="#m263">Webanalyse, Monitoring und Optimierung</a></li><li><a class="index-link" href="#m328">Plugins und eingebettete Funktionen sowie Inhalte</a></li><li><a class="index-link" href="#m723">Management, Organisation und Hilfswerkzeuge</a></li><li><a class="index-link" href="#m777">Kontakt- und Anfragenverwaltung</a></li></ul><h2 id="m3">Verantwortlicher</h2><p>Theresa Hauser<br>Alxinger Straße 13a<br>85567 Grafing</p>
+ <ul class="index"><li><a class="index-link" href="#m3">Verantwortlicher</a></li><li><a class="index-link" href="#mOverview">Übersicht der Verarbeitungen</a></li><li><a class="index-link" href="#m2427">Maßgebliche Rechtsgrundlagen</a></li><li><a class="index-link" href="#m317">Geschäftliche Leistungen</a></li><li><a class="index-link" href="#m263">Webanalyse, Monitoring und Optimierung</a></li><li><a class="index-link" href="#m328">Plugins und eingebettete Funktionen sowie Inhalte</a></li><li><a class="index-link" href="#m723">Management, Organisation und Hilfswerkzeuge</a></li><li><a class="index-link" href="#m777">AirTable</a></li></ul><h2 id="m3">Verantwortlicher</h2><p>Theresa Hauser<br>Alxinger Straße 13a<br>85567 Grafing</p>
 Vertretungsberechtigte Personen: <p>Theresa Hauser</p>
 E-Mail-Adresse: <p><a href="mailto:bunteyogawelt@gmail.com">bunteyogawelt@gmail.com</a></p>
 Impressum: <p><a href="https://bunteyogawelt.de/imprint/" target="_blank">https://bunteyogawelt.de/imprint/</a></p>
@@ -38,5 +38,29 @@ Die erforderlichen Angaben sind als solche im Rahmen des Auftrags-, Bestell- bzw
 <p>In diesem Rahmen können personenbezogenen Daten verarbeitet und auf den Servern der Drittanbieter gespeichert werden. Hiervon können diverse Daten betroffen sein, die wir entsprechend dieser Datenschutzerklärung verarbeiten. Zu diesen Daten können insbesondere Stammdaten und Kontaktdaten der Nutzer, Daten zu Vorgängen, Verträgen, sonstigen Prozessen und deren Inhalte gehören.</p>
 <p>Sofern Nutzer im Rahmen der Kommunikation, von Geschäfts- oder anderen Beziehungen mit uns auf die Drittanbieter bzw. deren Software oder Plattformen verwiesen werden, können die Drittanbieter Nutzungsdaten und Metadaten zu Sicherheitszwecken, zur Serviceoptimierung oder zu Marketingzwecken verarbeiten. Wir bitten daher darum, die Datenschutzhinweise der jeweiligen Drittanbieter zu beachten.</p>
 <ul class="m-elements"><li><strong>Verarbeitete Datenarten:</strong> Inhaltsdaten (z.B. Eingaben in Onlineformularen); Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-, Kommunikations- und Verfahrensdaten (z. B. IP-Adressen, Zeitangaben, Identifikationsnummern, Einwilligungsstatus).</li><li><strong>Betroffene Personen:</strong> Kommunikationspartner; Nutzer (z.B. Webseitenbesucher, Nutzer von Onlinediensten).</li><li><strong>Zwecke der Verarbeitung:</strong> Erbringung vertraglicher Leistungen und Kundenservice; Büro- und Organisationsverfahren.</li></ul><p class="seal"><a href="https://datenschutz-generator.de/" title="Rechtstext von Dr. Schwenke - für weitere Informationen bitte anklicken." target="_blank" rel="noopener noreferrer nofollow">Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke</a></p>
-<h2 id="m777">Kontakt- und Anfragenverwaltung</h2><p>Im Rahmen der Nutzung meines/unseres Online-Kontaktformulars werden gewisse personenbezogene Daten erhoben, deren Umfang aus der Eingabemaske unter www.bunteyogawelt.de/register ersichtlich ist. Diese Daten werden ausschließlich zum Zweck der Beantwortung Ihres Anliegens bzw. für die Kontaktaufnahme und die damit verbundene technische Administration gespeichert und verwendet. Rechtsgrundlage für die Verarbeitung dieser Daten ist unser berechtigtes Interesse an der Beantwortung Ihres Anliegens gemäß Art. 6 Abs. 1 lit. f DSGVO. Zielt Ihre Kontaktierung auf den Abschluss eines Vertrages ab, so ist zusätzliche Rechtsgrundlage für die Verarbeitung Art. 6 Abs. 1 lit. b DSGVO. Ihre Daten werden nach abschließender Bearbeitung Ihrer Anfrage gelöscht. Dies ist der Fall, wenn sich aus den Umständen entnehmen lässt, dass der betroffene Sachverhalt abschließend geklärt ist und sofern keine gesetzlichen Aufbewahrungspflichten entgegenstehen.</p>
+<h2 id="m777">AirTable</h2><p>
+Für die Aufnahme der Anmelde Daten via Formular nutzen wir den Datenbank-Dienst AirTable. Dies ist ein Dienst der Formagrid Inc., 769 Dolores Street San Francisco, CA 94110 United States ("AirTable").
+
+Wir setzen AirTable ein, um die Kontaktdaten von Interessenten an einem Kurs aufzunehmen und um Kontaktdaten der Eltern von Kindern für Zahlung und Notfälle vorzuhalten.
+
+AirTable verarbeitet folgende Daten:
+
+<ul class="m-elements">
+    <li>Vor- und Nachname</li>
+    <li>Alter</li>
+    <li>Telefonnummer</li>
+    <li>E-Mail Adresse</li>
+</ul>
+
+Grundsätzlich gibt AirTable keine gesammelten Daten an Dritte weiter.
+
+Nach Abschluss des jeweiligen Kurs Blocks werden Ihre Daten sofort gelöscht. Wir löschen Ihre Daten spätestens mit Ablauf der gesetzlichen Aufbewahrungsfrist (§ 147 Abs. 3 AO), d. h. nach Ablauf von 10 Jahren, beginnend mit dem Vertragsabschluss. Mit Ablauf dieser Aufbewahrungsfrist werden wir diese Daten unverzüglich löschen, ohne dass Sie uns dazu auffordern müssen.
+
+Wir haben mit AirTable zu den vorgenannten Zwecken einen Vertrag zur Auftragsverarbeitung abgeschlossen, in welchem wir AirTable verpflichten, die Daten unserer Kunden zu schützen und sie nicht an Dritte weiterzugeben.
+
+Wir haben mit AirTable einen Vertrag nach den Standarddatenschutzklauseln der EU abgeschlossen.
+
+Die Datenschutzerklärung von AirTable finden Sie unter: https://www.airtable.com/privacy
+
+</p>
 </div>
