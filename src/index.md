@@ -9,7 +9,12 @@ layout: "layouts/base.njk"
             <img class="rounded" src="/assets/images/wood gesture.webp" class="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="100%" loading="lazy">
         </div>
         <div class="col-lg-6 text-center">
-            <h1 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Kinderyoga mit Theresa</h1>
+            <h1 class="hero-font text-7xl	mt-4">
+              <span class="text-[#c96dea]">BUNTE</span>
+              <span class="text-[#0091fe]">YOGA</span>
+              <span class="text-[#20d911]">WELT</span>
+            </h1>
+            <h2 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Kinderyoga mit Theresa</h1>
             <p class="lead">Yoga mit Kindern in Aßling</p>
         </div>
         </div>
@@ -63,18 +68,18 @@ layout: "layouts/base.njk"
     </div>
     <div class="row row-cols-1 row-cols-lg-3 align-items-stretch g-4 py-2 flex justify-center" >
       <div class="col">
-        <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 " style="background-image: url('/assets/images/lotus crayon.webp');background-size: 100%;background-position: top;">
+        <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 " style="background-image: url('/assets/images/rainbow crayon.webp');background-size: 100%;background-position: top;">
           <div class="d-flex flex-column h-100 p-5 pb-3 text-black text-shadow-1">
-            <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Gruppe Lotusblume</h3>
+            <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Gruppe Regenbogen</h3>
             <div class="p-2"></div>
             <p class="text-xl"><b>Alter:</b> 3-6 Jahre</br><b>Wann:</b> Von 15:45-16:45 Uhr</p>
           </div>
         </div>
       </div>
       <div class="col">
-        <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 " style="background-image: url('/assets/images/rainbow crayon.webp');background-size: 100%;">
+        <div class="card card-cover h-100 overflow-hidden text-bg-dark rounded-4 " style="background-image: url('/assets/images/lotus crayon.webp');background-size: 100%;">
           <div class="d-flex flex-column h-100 p-5 pb-3 text-black text-shadow-1">
-            <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Gruppe Regenbogen</h3>
+            <h3 class="pt-5 mt-5 mb-4 display-6 lh-1 fw-bold">Gruppe Lotusblume</h3>
             <div class="p-2"></div>
             <p class="text-xl"><b>Alter:</b> 7-11 Jahre</br><b>Wann:</b> Von 17:00-18:00 Uhr</p>
           </div>
@@ -88,10 +93,10 @@ layout: "layouts/base.njk"
         <div class="text-center bg-white rounded-3 flex flex-wrap justify-center border shadow-lg">
             <div class="p-4 md:basis-1/2">
                 <h2 class="text-3xl font-extrabold text-black sm:text-4xl">Warum ist Yoga gut für mein Kind?</h1>
-                <p class="text-md mt-4 text-gray-400">Das schöne am Kinderyoga ist, spielerisch und Fantasievoll die Freude an Bewegung zu entdecken. Zudem wird den Kindern durch eine spielerische Art und Weise wissen vermittelt. Eine Kinderyoga Stunde wird mit Geschichten, Spielen, Gruppenübungen, Fantasiereisen, Meditation und vielem mehr kunterbunt gestaltet und auf einem Thema aufgebaut. Kinderyoga fördert die Konzentration und Koordination und Gleichgewichtsfähigkeit. Das Selbstbewusstsein und Selbstwertgefühl wird gestärkt. Besonders hilft Yoga den Kindern zu entspannen und unterstützt bei der Stressbewältigung im Alltag.</p>
+                <p class="text-md mt-4 text-gray-400">Das schöne am Kinderyoga ist, spielerisch und fantasievoll die Freude an Bewegung zu entdecken. Zudem wird den Kindern durch eine spielerische Art und Weise Wissen vermittelt. Eine Kinderyoga Stunde wird mit Geschichten, Spielen, Gruppenübungen, Fantasiereisen, Meditation und vielem mehr kunterbunt gestaltet und auf einem Thema aufgebaut. Kinderyoga fördert die Konzentration, Koordination und Gleichgewichtsfähigkeit. Das Selbstbewusstsein und Selbstwertgefühl wird gestärkt. Besonders bei der Entspannung hilft Yoga den Kindern und unterstützt sie bei der Stressbewältigung im Alltag.</p>
             </div>
-            <div class="md:basis-1/2 flex items-center gap-1 p-4 lg:p-24">
-              <img src="/assets/images/lake gesture trimmed.webp" class="w-1/2 rounded-lg" alt="Tree" loading="lazy" />
+            <div class="md:basis-1/2 flex items-center p-2 lg:p-24">
+              <img src="/assets/images/lake gesture trimmed.webp" class="w-1/2 rounded-lg" alt="Tree" loading="lazy" width="100%"/>
               <div>
                   <img src="/assets/images/lake meditate trimmed.webp" class="w-1/2 mb-8 rounded-lg" alt="Tree" loading="lazy" />
                   <img src="/assets/images/lake shadow trimmed.webp" class="w-1/2 rounded-lg" alt="Tree" loading="lazy" />
