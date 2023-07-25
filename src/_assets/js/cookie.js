@@ -22,8 +22,8 @@ manager.run({
         de: {
           notice:
             'Dieser Inhalt wird von einem Drittanbieter gehostet. Durch das Anzeigen des externen Inhalts akzeptieren Sie die Geschäftsbedingungen von Airtable <a rel="noreferrer noopener" href="https://www.airtable.com/privacy" target="_blank">Datenschutzerklärung</a> von airtable.com',
-          loadBtn: "Anmelde Formular laden",
-          loadAllBtn: "Ab jetzt nicht mehr fragen",
+          loadBtn: "Anmelde Formular einmalig laden",
+          loadAllBtn: "Ab jetzt immer laden",
         },
       },
       cookie: {
@@ -41,8 +41,8 @@ manager.run({
         de: {
           notice:
             'Dieser Inhalt wird von einem Drittanbieter gehostet. Durch das Anzeigen des externen Inhalts akzeptieren Sie die Geschäftsbedingungen von Google Maps <a rel="noreferrer noopener" href="https://cloud.google.com/maps-platform/terms" target="_blank">Datenschutzerklärung</a> von Google Maps.',
-          loadBtn: "Google Maps laden",
-          loadAllBtn: "Ab jetzt nicht mehr fragen",
+          loadBtn: "Google Maps einmalig laden",
+          loadAllBtn: "Ab jetzt immer laden",
         },
       },
     },
