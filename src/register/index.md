@@ -7,7 +7,7 @@ layout: "layouts/base.njk"
     data-autoscale
     data-service="airtable"
     data-id="<shrB9yLVSxeZ9yDMr>"
-    data-thumbnail="/assets/images/form%20blur.jpg"
+    data-thumbnail="/assets/images/white.svg"
     style="width: 100%; height: 620px;"
 >
 </div>
