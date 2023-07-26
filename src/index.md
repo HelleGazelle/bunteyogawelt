@@ -22,11 +22,12 @@ layout: "layouts/base.njk"
     <!-- Maps -->
     <div class="homepage-container flex items-center">
         <div class="container">
-            <div class="text-center bg-white rounded-3 flex flex-wrap justify-center p-8 border shadow-lg">
+            <div class="text-center bg-white rounded-3 flex flex-wrap justify-center p-8 border shadow-lg items-center">
                 <div class="p-4 md:basis-1/2">
                     <h2 class="text-3xl font-extrabold text-black sm:text-4xl">Hier findet ihr uns</h2>
                     <p>Unsere Räumlichkeiten befinden sich im Ortskern von Aßling im ehemaligen Sparkassen Geäude neben der Eisdiele.</p>
                     <p><b>Adresse:</b><br>Praxiskollektiv<br>Kirchplatz 3<br>85617 Aßling</p>
+                    <img class="rounded shadow-lg" width="80%" src="/assets/images/room.webp"/>
                 </div>
                 <div class="md:basis-1/2">
                  <div 
