@@ -27,7 +27,7 @@ layout: "layouts/base.njk"
             <div class="text-center bg-white rounded-3 flex flex-wrap justify-center p-8 border shadow-lg items-center">
                 <div class="p-4 md:basis-1/2">
                     <h2 class="text-3xl font-extrabold text-black sm:text-4xl">Hier machen wir Kinderyoga</h2>
-                    <p>Der Kursraum befindet sich an Kirchplatz 3 im Praxiskollektiv, im Ortskern von Aßling,r im ehemaligen Sparkassengebäude neben der Eisdiele.</p>
+                    <p>Der Kursraum befindet sich an Kirchplatz 3 im Praxiskollektiv, im Ortskern von Aßling, im ehemaligen Sparkassengebäude neben der Eisdiele.</p>
                     <p><b>Adresse:</b><br>Praxiskollektiv<br>Kirchplatz 3<br>85617 Aßling</p>
                     <img class="rounded shadow-lg" width="80%" src="/assets/images/room.webp"/>
                 </div>
@@ -65,7 +65,7 @@ layout: "layouts/base.njk"
         <image width="30px" src="/assets/images/icons/star.svg" />
         <div>
           <h3 class="fw-bold mb-0 fs-4 text-body-emphasis">10er Blöcke</h3>
-          <p>Mit einer Anmeldung meldet man sich für einen ganzen Block an. Ein Block besteht auf 10 aufeinander folgenden Terminen.</p>
+          <p>Mit einer Anmeldung meldet man sich für einen ganzen Block an. Ein Block besteht aus 10 aufeinander folgenden Terminen.</p>
         </div>
       </div>
     </div>
