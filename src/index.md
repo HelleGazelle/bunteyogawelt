@@ -16,7 +16,7 @@ layout: "layouts/base.njk"
             </h1>
             <h2 class="display-5 fw-bold text-body-emphasis lh-1 mb-3">Kinderyoga mit Theresa</h1>
             <p class="lead">Yoga mit Kindern in Aßling</p>
-              <p class="text-2xl italic  font-thin lg:mt-20">Kinder, die sich bewegen, entdecken nicht nur die Umgebung um sie herum, sondern auch die Schätze in ihrem Inneren</p>
+              <p class="text-2xl italic  font-thin lg:mt-20">Kinder, die sich bewegen, entdecken nicht nur die Umgebung um sich herum, sondern auch die Schätze in ihrem Inneren</p>
               <p class="font-light text-xs">(Unbekannter Verfasser)</p>
         </div>
         </div>
@@ -27,7 +27,7 @@ layout: "layouts/base.njk"
             <div class="text-center bg-white rounded-3 flex flex-wrap justify-center p-8 border shadow-lg items-center">
                 <div class="p-4 md:basis-1/2">
                     <h2 class="text-3xl font-extrabold text-black sm:text-4xl">Hier machen wir Kinderyoga</h2>
-                    <p>Der Kursraum befindet sich an Kirchplatz 3 im Praxiskollektiv, im Ortskern von Aßling, im ehemaligen Sparkassengebäude neben der Eisdiele.</p>
+                    <p>Der Kursraum befindet sich am Kirchplatz 3 im Praxiskollektiv, im Ortskern von Aßling, im ehemaligen Sparkassengebäude neben der Eisdiele.</p>
                     <p><b>Adresse:</b><br>Praxiskollektiv<br>Kirchplatz 3<br>85617 Aßling</p>
                     <img class="rounded shadow-lg" width="80%" src="/assets/images/room.webp"/>
                 </div>
