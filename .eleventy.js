@@ -27,6 +27,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({
     "./src/_assets/fonts": "assets/fonts",
   });
+  eleventyConfig.addPassthroughCopy({
+    "./src/robots.txt": "robots.txt",
+  });
 
   eleventyConfig.addLayoutAlias("base", "layouts/base.njk");
 

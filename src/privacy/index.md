@@ -1,6 +1,7 @@
 ---
 title: Datenschutz
 layout: "layouts/base.njk"
+eleventyExcludeFromCollections: true
 ---
 
 <div class="container">

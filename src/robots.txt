@@ -1,0 +1,11 @@
+Sitemap: https://bunteyogawelt.de/sitemap.xml
+
+User-agent: *
+Disallow: /imprint
+Disallow: /privacy
+Disallow: /about
+Disallow: /contact
+Disallow: /imprint/
+Disallow: /privacy/
+Disallow: /about/
+Disallow: /contact/

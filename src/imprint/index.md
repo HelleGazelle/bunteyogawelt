@@ -1,6 +1,7 @@
 ---
 title: Impressum
 layout: "layouts/base.njk"
+eleventyExcludeFromCollections: true
 ---
 
 ## Verantwortlich:
